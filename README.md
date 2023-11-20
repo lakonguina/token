@@ -1,4 +1,4 @@
-# goforfa
+https://tezos-token.netlify.app
 
 ## Description
 
